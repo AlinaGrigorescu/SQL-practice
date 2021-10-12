@@ -3,8 +3,8 @@
 # Project 1: Danny's Diner
 
 # Case Study Questions
-# Q1. What is the total amount each customer spent at the restaurant?
-# Q2. How many days has each customer visited the restaurant?
+## Q1. What is the total amount each customer spent at the restaurant?
+## Q2. How many days has each customer visited the restaurant?
 #Q3. What was the first item from the menu purchased by each customer?
 #Q4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 #Q5. Which item was the most popular for each customer?
